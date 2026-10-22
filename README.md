@@ -1,16 +1,83 @@
-## Hi there 👋
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Jaimegleejr%22%2C%22name%22%3A%22Jaimegleejr%22%2C%22email%22%3A%22jaimegljr1%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22Git%22%2C%22Microsoft%20365%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
-<!--
-**jaimegleejr/jaimegleejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github.com/Jaimegleejr.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Jaimegleejr
+
+**Jaimegleejr**
+
+*IT Professional*
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Jaimegleejr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaimegleejr) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimegljr1@gmail.com)
+
+</div>
+
+---
+
+## Professional Summary
+
+*Add your professional summary above to display it here.*
+
+---
+
+## Skills Learned
+
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0969da?style=flat-square)
+
+---
+
+## Course Portfolio
+
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
